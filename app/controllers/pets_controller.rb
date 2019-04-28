@@ -38,3 +38,4 @@ class PetsController < ApplicationController
     erb :'/pets/edit'
   end
 end
+end
